@@ -8,4 +8,4 @@ Je suis étudiant en **2ème année de développement web & mobile**, je me pass
 - Web Design/UX design
 - Graphisme
 - JS ➤ node, React, Vue, Ionic
-- PHP ➤ Composer, POO, MVC
+- PHP ➤ Composer, POO, Lavarel
