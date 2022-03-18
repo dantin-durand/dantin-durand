@@ -9,3 +9,8 @@ Je suis étudiant en **3ème année de développement web & mobile**, je me pass
 - Graphisme
 - JS ➤ node, React, Vue, Ionic
 - PHP ➤ Composer, POO, Lavarel
+
+## Statistiques
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dantin-durand&show_icons=true&theme=tokyonight)
+
