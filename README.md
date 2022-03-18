@@ -11,7 +11,7 @@ Je suis étudiant en **3ème année de développement web & mobile**, je me pass
 - ⚙️ PHP ➤ Composer, POO, Lavarel
 - 📱 Swift/Java (Android)
 
-## Statistiques
+### Statistiques
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dantin-durand&show_icons=true&theme=tokyonight)
 
