@@ -7,7 +7,7 @@ Je suis étudiant en **3ème année de développement web & mobile**, je me pass
 - 📐 HTML/CSS
 - 🖥 Web Design/UX design
 - 🖌 Graphisme
-- 🚀 JS ➤ node, React, Vue, Ionic
+- 🚀 JS ➤ node, React/RN, Vue, Ionic
 - ⚙️ PHP ➤ Composer, POO, Lavarel
 - 📱 Swift/Java (Android)
 
