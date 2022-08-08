@@ -1,6 +1,6 @@
 ### Salut 👋
 
-Je suis étudiant en **3ème année de développement web & mobile**, je me passionne pour le graphisme et le développement full stack. Actuellement **alternant** à l'[agence RJS](https://github.com/Agence-RJS) en temps que **développeur full stack**.
+Je suis étudiant en **M1 de Manager Full Stack**, je me passionne pour le graphisme et le développement full stack. Actuellement **alternant** à l'[agence RJS](https://github.com/Agence-RJS) en temps que **développeur full stack**.
 
 ### Mes Langages:
 
@@ -15,3 +15,4 @@ Je suis étudiant en **3ème année de développement web & mobile**, je me pass
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dantin-durand&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dantin-durand&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
