@@ -4,11 +4,11 @@ Je suis étudiant en **M1 de Manager Full Stack**, je me passionne pour le graph
 
 ### Mes Langages:
 
-- 📐 HTML/CSS
 - 🖥 Web Design/UX design
 - 🖌 Graphisme
-- 🚀 JS ➤ node, React/RN, Vue, Ionic
-- ⚙️ PHP ➤ Composer, POO, Lavarel
+- 🚀 JS ➤ `Node` | `React/RN` | `Vue`
+- 📐 CSS ➤ `Tailwind` | `Bootstrap` | `CSS3`
+- ⚙️ PHP ➤ `Composer` | `POO` | `Lavarel`
 - 📱 Swift/Java (Android)
 
 ### Statistiques
