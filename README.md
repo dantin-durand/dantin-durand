@@ -1,6 +1,6 @@
 ### Salut 👋
 
-Je suis étudiant en **M1 de Manager Full Stack**, je me passionne pour le graphisme et le développement web. Actuellement **alternant** à l'[agence RJS](https://github.com/Agence-RJS) en temps que **développeur full stack**.
+Je suis étudiant en **M2 de Manager Full Stack**, je me passionne pour le graphisme et le développement web. Actuellement **alternant** chez [sitizi](https://sitizi.fr) en temps que **développeur full stack**.
 
 ### Mes Langages:
 
